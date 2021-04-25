@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://wren-web.github.io/blog</id>
-    <title>wren-web Blog</title>
+    <id>https://SpiderWren.github.io/blog</id>
+    <title>SpiderWren Blog</title>
     <updated>2021-04-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://wren-web.github.io/blog"/>
-    <subtitle>wren-web Blog</subtitle>
-    <icon>https://wren-web.github.io/img/favicon.ico</icon>
+    <link rel="alternate" href="https://SpiderWren.github.io/blog"/>
+    <subtitle>SpiderWren Blog</subtitle>
+    <icon>https://SpiderWren.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[What is wren-web?]]></title>
-        <id>What is wren-web?</id>
-        <link href="https://wren-web.github.io/blog/2021/04/21/what-is-wren-web"/>
+        <title type="html"><![CDATA[What is SpiderWren?]]></title>
+        <id>What is SpiderWren?</id>
+        <link href="https://SpiderWren.github.io/blog/2021/04/21/what-is-wren-web"/>
         <updated>2021-04-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post should help you understand what wren-web is]]></summary>
+        <summary type="html"><![CDATA[This post should help you understand what SpiderWren is]]></summary>
     </entry>
 </feed>

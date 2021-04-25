@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{74:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"wren-web","name":"wren-web","count":1,"permalink":"/blog/tags/wren-web"}')}}]);

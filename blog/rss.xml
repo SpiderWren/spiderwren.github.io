@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>wren-web Blog</title>
-        <link>https://wren-web.github.io/blog</link>
-        <description>wren-web Blog</description>
+        <title>SpiderWren Blog</title>
+        <link>https://SpiderWren.github.io/blog</link>
+        <description>SpiderWren Blog</description>
         <lastBuildDate>Wed, 21 Apr 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[What is wren-web?]]></title>
-            <link>https://wren-web.github.io/blog/2021/04/21/what-is-wren-web</link>
-            <guid>What is wren-web?</guid>
+            <title><![CDATA[What is SpiderWren?]]></title>
+            <link>https://SpiderWren.github.io/blog/2021/04/21/what-is-wren-web</link>
+            <guid>What is SpiderWren?</guid>
             <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[This post should help you understand what wren-web is]]></description>
+            <description><![CDATA[This post should help you understand what SpiderWren is]]></description>
         </item>
     </channel>
 </rss>
